@@ -1,0 +1,13 @@
+@media screen and (min-width: 700px){
+    .title{
+        font-size: 50px;
+        color: blue;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .title{
+        font-size: 70px;
+        color: orange;
+    }
+}

@@ -1,0 +1,168 @@
+/* Wow css is so cool! */
+
+@media screen and (min-width: 700px){
+    .myLiClass{
+        color:white;
+    }
+    .colorscheme{
+       color: #FF8FA5;
+       color: #E817D6;
+       color: #B426FF;
+       color: #4E17E8;
+       color: #A0ACFF;
+    }
+    body{
+        background-color: black;
+    }
+    .myDivs {
+        width: 1000px;
+        height: 800px;
+        background-color: gray;
+        margin: 0 auto;
+        border-radius: 25px;
+        float: left;
+    }
+    h1{
+        font-size:70px;
+    }
+    .myContainer{
+        color:black;
+        background-color:fuchsia;
+    }
+    .myParagraph{
+        color:fuchsia;
+    }
+    a{
+        color:aquamarine;
+    }
+    .container{
+        margin: 0 auto;
+        width: 1366px;
+        height: 768px;
+        background-color: #B426FF;
+    }
+    /* For the banner on the top of the page */
+    .banner{
+        width: 700px;
+        height: 95px;
+        float: left;
+        background-color: red;
+        color: white;
+        font-size: 75px;
+        font-weight: bold;
+        text-align: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-family: cursive;
+    }
+    /* For the navigation bar on the side */
+    .nav{
+        width: 215px;
+        height: 533px;
+        float: left;
+        background-color:#E817D6;
+        text-align: center; 
+        color: white;  
+        font-size: 30px;
+        padding-top: 20px;
+    }
+    /* For the content section of the page */
+    .content{
+        width: 1121px;
+        height: 523px;
+        float: left;
+        padding: 15px;
+    }
+    /* For testing the spacing in divs */
+    .testdiv{
+        width: 200px;
+        height: 200px;
+        background-color: green;
+        float: right;
+        padding: 15px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+
+    .myLiClass{
+        color:white;
+    }
+    .colorscheme{
+       color: #FF8FA5;
+       color: #E817D6;
+      color: #B426FF;
+       color: #4E17E8;
+       color: #A0ACFF;
+    }
+    body{
+        background-color: black;
+    }
+    .myDivs {
+        width: 1000px;
+        height: 800px;
+        background-color: gray;
+        margin: 0 auto;
+        border-radius: 25px;
+        float: left;
+    }
+    h1{
+        font-size:70px;
+    }
+    .myContainer{
+        color:black;
+        background-color:fuchsia;
+    }
+    .myParagraph{
+        color:fuchsia;
+    }
+    a{
+        color:aquamarine;
+    }
+    .container{
+        margin: 0 auto;
+        width: 1366px;
+        height: 768px;
+        background-color: #B426FF;
+    }
+    /* For the banner on the top of the page */
+    .banner{
+        width: 1366px;
+        height: 95px;
+        float: left;
+        background-color:#4E17E8;
+        color: white;
+        font-size: 75px;
+        font-weight: bold;
+        text-align: center;
+        padding-top: 60px;
+        padding-bottom: 60px;
+        font-family: cursive;
+    }
+    /* For the navigation bar on the side */
+    .nav{
+        width: 215px;
+        height: 533px;
+        float: left;
+        background-color:#E817D6;
+        text-align: center; 
+        color: white;  
+        font-size: 30px;
+        padding-top: 20px;
+    }
+    /* For the content section of the page */
+    .content{
+        width: 1121px;
+        height: 523px;
+        float: left;
+        padding: 15px;
+    }
+    /* For testing the spacing in divs */
+    .testdiv{
+        width: 200px;
+        height: 200px;
+        background-color: green;
+        float: right;
+        padding: 15px;
+    }
+}
